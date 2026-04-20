@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/LucasBelhassof">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=8000ff&size=28&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Front-end+%7C+Back-end+%7C+Always+learning" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=8000ff&size=28&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Turning+ideas+into+projects;Focused+on+consistent+progress" />
   </a>
 </p>
 
