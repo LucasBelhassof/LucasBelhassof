@@ -1,16 +1,72 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=120&section=header"/>
 
-<!--
-**LucasBelhassof/LucasBelhassof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Lucas Belhassof</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Desenvolvedor em formação, focado em criar projetos com interfaces modernas e boas práticas de desenvolvimento.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/LucasBelhassof">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=8000ff&size=28&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Front-end+%7C+Back-end+%7C+Always+learning" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasBelhassof&show_icons=true&count_private=true&hide_border=true&title_color=8000ff&icon_color=8000ff&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Belhasso github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBelhassof&layout=compact&hide_border=true&title_color=8000ff&text_color=8000ff&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasBelhassof&bg_color=0d1117&color=8000ff&line=a855f7&point=c084fc&area=true&hide_border=true"/>
+</div>
+---
+
+## Main Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=8000ff" />
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=8000ff" />
+</p>
+
+---
+
+## Currently Studying
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8000ff" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasbelhassof/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8000ff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=120&section=footer"/>
