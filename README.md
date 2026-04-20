@@ -24,6 +24,13 @@
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasBelhassof&bg_color=0d1117&color=8000ff&line=a855f7&point=c084fc&area=true&hide_border=true"/>
 </div>
+
+<p align="center">
+  <a href="https://lucasbelhassof.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-8000ff?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## Main Skills
@@ -31,10 +38,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=8000ff" />
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8000ff" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8000ff" />
-  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=8000ff" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8000ff" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8000ff" />
 </p>
 
 ---
@@ -47,16 +54,19 @@
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=8000ff" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8000ff" />
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=8000ff" />
+
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=8000ff" />
 </p>
 
 ---
 
-## Currently Studying
+## Current Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=8000ff" />
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8000ff" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8000ff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8000ff" />
 </p>
 
 ---
